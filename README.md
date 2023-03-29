@@ -1,4 +1,4 @@
-## :octocat: Pablo Álvarez
+
 ### Hi 👋
 I´m Pablo, a software engineer student in Pontificia Universidad Católica, Chile.
 
