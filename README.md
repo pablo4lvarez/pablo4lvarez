@@ -1,6 +1,6 @@
 
 ### Hi 👋
-I´m Pablo, a software engineer student in Pontificia Universidad Católica, Chile.
+I´m Pablo, a Software Engineer student in Pontificia Universidad Católica, Chile.
 
 - 🔭 I’m currently working on a Flutter Movile App with some friends.
 - 🌱 I’m currently learning a little bit of AI.
