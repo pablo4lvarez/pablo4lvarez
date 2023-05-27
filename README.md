@@ -4,6 +4,7 @@ I´m Pablo, a Software Engineer student in Pontificia Universidad Católica, Chi
 
 - 🔭 I’m currently working on a Flutter Movile App with some friends.
 - 🌱 I’m currently learning Deep Learning in fastai.
+- 🤔 I’m interested a lot in Data Science and Analytics.
 
 ---
 
