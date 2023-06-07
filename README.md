@@ -2,9 +2,8 @@
 ### Hi 👋
 I´m Pablo, a Software Engineer student in Pontificia Universidad Católica, Chile.
 
-- 🔭 I’m currently working on a Flutter Movile App with some friends.
-- 🌱 I’m currently learning Deep Learning in fastai.
-- 🤔 I’m interested a lot in Data Science and Analytics.
+- 🔨 I’m collaborating on a Flutter Mobile App with some friends.
+- 🤔 I’m interested in Data Science, Engineering and Analytics.
 
 ---
 
@@ -26,7 +25,6 @@ I´m Pablo, a Software Engineer student in Pontificia Universidad Católica, Chi
 ### Frameworks and Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
