@@ -2,7 +2,7 @@
 ### Hi 👋
 I´m Pablo, a Software Engineer student in Pontificia Universidad Católica, Chile.
 
-- 🔨 I’m collaborating on a Flutter Mobile App with some friends.
+- 🤝 I’m collaborating on a Flutter Mobile App with some friends.
 - 🤔 I’m interested in Data Science, Engineering and Analytics.
 
 ---
@@ -28,6 +28,7 @@ I´m Pablo, a Software Engineer student in Pontificia Universidad Católica, Chi
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
 
