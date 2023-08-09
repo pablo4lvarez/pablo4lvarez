@@ -2,8 +2,8 @@
 ### Hi 👋
 I´m Pablo, a Software Engineer student in Pontificia Universidad Católica, Chile.
 
-- 🤝 I’m collaborating on a Flutter Mobile App with some friends.
 - 🤔 I’m interested in Data Science and Engineering, and Software Engineering.
+- 🛠️ I’m currently working as a Mobile developer at Glik SpA.
 
 ---
 
