@@ -3,7 +3,7 @@
 I´m Pablo, a Software Engineer student in Pontificia Universidad Católica, Chile.
 
 - 🤔 I’m interested in Data Science and Engineering, and Software Engineering.
-- 🛠️ I’m currently working as a Mobile developer at Glik SpA.
+- 🚀 I’m currently working as a Mobile developer at Glik SpA.
 
 ---
 
