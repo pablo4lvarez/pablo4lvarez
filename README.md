@@ -3,12 +3,12 @@
 I´m Pablo, a Software Engineer student in Pontificia Universidad Católica, Chile.
 
 - 🤔 I’m interested in Data Science and Engineering, and Software Engineering.
-- 🚀 I’m currently working as a Mobile developer at Glik SpA.
-- 🌱 Also learning new stuff and working on personal projects...
+- 🌱 Constantly learning new stuff and working on personal projects...
 
 ---
 
 <!-- https://github.com/Ileriayo/markdown-badges 
+- 🚀 I’m currently working as a Mobile developer at Glik SpA.
 
 ### Languages and Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
