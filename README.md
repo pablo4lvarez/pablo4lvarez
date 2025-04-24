@@ -1,6 +1,7 @@
 
 ### Hi 👋
 I'm a Growth Software Engineer from Chile.
+
 🌱 Constantly learning new stuff and working on personal projects.
 
 ---
