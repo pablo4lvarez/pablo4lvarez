@@ -1,8 +1,6 @@
 
 ### Hi 👋
-I'm a Software Engineer from Chile.
-
-🌱 Constantly learning new stuff and working on personal projects.
+Software Engineer from Chile.
 
 ---
 
